@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on DocAtDoor project<br>🌱 I’m currently learning ExpressJs<br>💬 Ask me about ReactJs
+🌱 I’m currently learning ExpressJs<br>💬 Ask me about ReactJs
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshay-mundra-0a81121a5) 
